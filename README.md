@@ -23,11 +23,20 @@ During this project we learned and practised the OOP concepts. **There was a ske
   - Add more monsters
   - Vision range for player
   - Add some friendly NPCs
-  - Add more detailed quest(s)
+  - Add more detailed quest(s)  
+## Controls  
+  - **UP ARROW** up
+  - **DOWN ARROW** down
+  - **LEFT ARROW** left
+  - **RIGHT ARROW** right
   
 ## Prerequisites  
   - Java 11  
   - Maven 3.6.0  
+
+## Used technologies  
+  - Openjfx - Javafx controls - version: 12.0.2  
+  - Junit 5 - Junit jupiter api - version: 5.3.2  
 
 ## Opening the project
 
